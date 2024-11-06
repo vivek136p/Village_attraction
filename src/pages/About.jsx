@@ -47,8 +47,8 @@ function About() {
 
 const data = [
   {
-    name: `Yuvraj Singh`,
-    img: `/students/yuvraj.jpg`,
+    name: `Vivek Prasad`,
+    img: `/students/vivek.jpg`,
     review: `UG Student, CSE 3rd year
 DEVELOPER AND MAINTAINER`,
   },
